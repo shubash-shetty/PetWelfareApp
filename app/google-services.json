@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738907650905",
+    "project_id": "pet-welfare",
+    "storage_bucket": "pet-welfare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738907650905:android:8cbcf378dc47d6fb71ea48",
+        "android_client_info": {
+          "package_name": "com.example.pet_welfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738907650905-3aqq2m135mj033662ju1t64050a9r2ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyK4hRB1Rx8Ob0IxfZL97dkwOfLjK8OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738907650905-3aqq2m135mj033662ju1t64050a9r2ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

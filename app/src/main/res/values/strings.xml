@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pet_Welfare</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_cllose">close navigation drawer</string>
+
+</resources>
